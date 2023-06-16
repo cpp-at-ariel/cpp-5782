@@ -1,3 +1,0 @@
-#!/bin/bash
-javac Memory.java
-java Memory

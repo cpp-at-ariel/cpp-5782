@@ -1,6 +1,0 @@
-
-namespace abc { 
-	void printx();
-};
-
-
